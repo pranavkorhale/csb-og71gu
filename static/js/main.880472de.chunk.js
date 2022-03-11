@@ -1,0 +1,2 @@
+(this["webpackJsonp4-js-expression-practice"]=this["webpackJsonp4-js-expression-practice"]||[]).push([[0],{4:function(e,r,s){"use strict";s.r(r);s(1);var t=s(3),c=s.n(t),n=s(0),i=(new Date).getFullYear();c.a.render(Object(n.jsxs)("div",{children:[Object(n.jsx)("h3",{children:"Created by Pranav Korhale"}),Object(n.jsxs)("h3",{children:[Object(n.jsx)("i",{children:"Copyright"})," ",i]})]}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.880472de.chunk.js.map
